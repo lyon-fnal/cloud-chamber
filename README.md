@@ -53,7 +53,7 @@ There are some safety issues,
 * You may want to put a heavy book on top of the fish tank, just to hold everything down and ensure the fish tank is in good contact with the baking sheet (no gaps) and the banking sheet is in good contact with the dry ice. If there are gaps between the fish tank and the baking sheet, you can use duct tape to cover them. But when the tank gets cold the duct tape won't work well. We used duct tape at first, but didn't really need it.
 * Turn off the lights
 * Wait - it took about 15-20 minutes for things to cool down enough before we started seeing tracks. 
-* You need a strong light source. The LED on my iPhone 6 on medium strengh worked great. 
+* You need a strong light source. The LED on my iPhone 6 on medium strength worked great. 
 
 Here are two pictures of the completed cold cloud chamber.
 
@@ -67,6 +67,6 @@ See https://www.youtube.com/watch?v=cFG3P-VRK4E for a movie of the cloud chamber
 
 ## What's going on?
 
-The isopropyl alcohol evaporates and the vapor falls from the felt to the bottom of the tank. The bottom is very cold and so you get a supersaturated cloud of alcohol vapor at the bottom of the tank. When a subatomic particle goes through the cloud, it ionizes the air (strips electrons off of atoms) along its path. The alcohol like to clump onto the resulting ions forming droplets, thus making a track that you can see. Cool!!!
+The isopropyl alcohol evaporates and the vapor falls from the felt to the bottom of the tank. The bottom is very cold and so you get a supersaturated cloud of alcohol vapor at the bottom of the tank. When a subatomic particle goes through the cloud, it ionizes the air (strips electrons off of atoms) along its path. The alcohol like to clump onto the resulting ions forming droplets, thus making a track that you can see. Cool! You aren't seeing the subatomic particles directly - instead you are seeing them affect the vapor in the cloud chamber. Still cool!
 
 See the [Symmetry magazine](http://www.symmetrymagazine.org/article/january-2015/how-to-build-your-own-particle-detector) article for an explanation of the different tracks you'll see. 
