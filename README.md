@@ -16,7 +16,7 @@ I finally found a video and paper from [IOPScience](http://iopscience.iop.org/ar
 * You need black felt with an adhesive back. I got a sheet from [Amazon](https://www.amazon.com/gp/product/B0054G5XA2/ref=od_aui_detailpages00?ie=UTF8&psc=1). $4.60.
 * Isopropyl alcohol is needed. The kind you buy at the drug store (usually 70%) will have too much water in it. 90% supposedly works, but 99% is best. I got a 16 oz bottle of 99% isopropyl alcohol from [Amazon](https://www.amazon.com/gp/product/B001B5JT8C/ref=od_aui_detailpages01?ie=UTF8&psc=1) for $8.70
 
-In principle, the above and some dry ice (see below) is all you need. I got some extra stuff, all from Amazon, that have been helpful,
+In principle, the above and some dry ice (see below) are all you need. I got some extra stuff, all from Amazon, that have been helpful,
 
 * A [wash bottle](https://www.amazon.com/gp/product/B005Z4RGQW/ref=od_aui_detailpages00?ie=UTF8&psc=1) is convenient for squirting the alcohol onto the felt. $5.09
 * 2% Thoriated [welding rods](https://www.amazon.com/gp/product/B01BKYV9JU/ref=od_aui_detailpages00?ie=UTF8&psc=1) are a tiny bit radioactive and are a great source to put in the cloud chamber (the IOPScience article/movie uses them). I bought a pack of 10 for $11.49. Not sure what to do with the other nine welding rods. You can't buy just one.
