@@ -2,7 +2,7 @@
 
 [Cloud chambers](https://en.wikipedia.org/wiki/Cloud_chamber) are what got me into a carrer in High Energy physics. I've been wanting to make one myself for quite awhile. There are many sets of instructions on the web...
 
-* [Quarknet/Fermilab](http://quarknet.fnal.gov/resources/QN_CloudChamberV1_4.pdf) - they want you to build your own aquarium!
+* [Quarknet/Fermilab](http://quarknet.fnal.gov/resources/QN_CloudChamberV1_4.pdf) - they want you to build your own aquarium! Instructions look complicated and it takes a week for the chamber to cure!
 * [Symmetry magazine](http://www.symmetrymagazine.org/article/january-2015/how-to-build-your-own-particle-detector) has a nice article with a movie and a nice explanation of the differnent tracks you'll see, but lacks specifics (e.g. how big of a fish tank? What lid?)
 * [Instructables](http://www.instructables.com/id/Make-a-Cloud-Chamber-using-Peltier-Coolers/) has one that uses a Peltier cooler instead of dry ice. Very cool (ha!) but complicated and expensive. You used to be able to buy an assembled chamber from a [company](http://www.nothinglabs.com/electroniccloudchamber/) that is now considering selling kits. 
 * [Jefferson Lab](http://education.jlab.org/frost/cloud_chamber.html) has a nice video of making a small cloud chamber. They recommend you buy a radioactive source. Note that their series of science education videos are really great! 
