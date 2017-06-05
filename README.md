@@ -1,11 +1,12 @@
 # Super easy cloud chamber
 
-[Cloud chambers](https://en.wikipedia.org/wiki/Cloud_chamber) are what got me into a carrer in High Energy physics. I've been wanting to make one myself for quite awhile. There are many sets of instructions on the web...
+[Cloud chambers](https://en.wikipedia.org/wiki/Cloud_chamber) are what got me into a carrer in High Energy physics. I've been wanting to make one myself for quite awhile. There are many sets of instructions on the web, all a little frustrating,
 
 * [Quarknet/Fermilab](http://quarknet.fnal.gov/resources/QN_CloudChamberV1_4.pdf) - they want you to build your own aquarium! Instructions look complicated and it takes a week for the chamber to cure!
 * [Symmetry magazine](http://www.symmetrymagazine.org/article/january-2015/how-to-build-your-own-particle-detector) has a nice article with a movie and a nice explanation of the different tracks you'll see, but lacks specifics for building (e.g. how big of a fish tank? What lid?)
 * [Instructables](http://www.instructables.com/id/Make-a-Cloud-Chamber-using-Peltier-Coolers/) has one that uses a Peltier cooler instead of dry ice. Very cool (ha!) but complicated and expensive. You used to be able to buy an assembled chamber from a [company](http://www.nothinglabs.com/electroniccloudchamber/) that is now considering selling kits. 
 * [Jefferson Lab](http://education.jlab.org/frost/cloud_chamber.html) has a nice video of making a small cloud chamber. They recommend you buy a radioactive source. Note that their series of science education videos is really great! 
+* Physics super-star Brian Cox (but see [here](http://www.itv.com/news/anglia/2017-05-23/beautiful-scientists-not-taken-as-seriously-as-less-attractive-colleagues/)) has a [clip](https://www.youtube.com/watch?v=fWxfliNAI3U) from his BBC TV show about cloud chambers. Very nice explanation on what's going on and how cosmic rays viewable with the cloud chamber make DNA mutations, but few details on how to make the chamber itslef. 
 
 I finally found a video and paper from [IOPScience](http://iopscience.iop.org/article/10.1088/0031-9120/47/3/338/meta) for a plastic fish tank chamber with instructions that were quite detailed. The whole thing looked very easy to put together. The paper is behind a pay-wall (sigh), but below I'll describe the Cloud Chamber my daughter and I built and the parts we used. 
 
@@ -49,7 +50,7 @@ There are some safety issues,
 * If you wish, with the blue/poster tack, prop up the thoriated rod on the baking sheet so it is a little above the sheet. You may want to put it in at a small angle to test how high the vapor layer goes.
 * Break up the dry ice into chunks (a hammer and screwdriver are useful - wear eye and hand protection) making a level surface in the tray. See this picture ![](dryice.png)
 * Put some isopropyl alcohol in the wash bottle and squirt it onto the felt all around the tank. You want the felt saturated, but not dripping. Wipe up any excess alcohol. Use eye protection. 
-* Put the fish tank upside down (opening on the bottom) on top of the baking sheet and put the backing sheet on top of the dry ice. It will make some neat noises as the baking sheet shrinks slightly with the cold dry ice. 
+* Put the fish tank upside down (opening on the bottom) on top of the baking sheet and put the baking sheet on top of the dry ice. It will make some neat noises as the baking sheet shrinks slightly with the cold dry ice. 
 * You may want to put a heavy book on top of the fish tank, just to hold everything down and ensure the fish tank is in good contact with the baking sheet (no gaps) and the banking sheet is in good contact with the dry ice. If there are gaps between the fish tank and the baking sheet, you can use duct tape to cover them. But when the tank gets cold the duct tape won't work well. We used duct tape at first, but didn't really need it.
 * Turn off the lights
 * Wait - it took about 15-20 minutes for things to cool down enough before we started seeing tracks. 
