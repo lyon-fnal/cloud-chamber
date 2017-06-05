@@ -5,7 +5,7 @@
 * [Quarknet/Fermilab](http://quarknet.fnal.gov/resources/QN_CloudChamberV1_4.pdf) - they want you to build your own aquarium! Instructions look complicated and it takes a week for the chamber to cure!
 * [Symmetry magazine](http://www.symmetrymagazine.org/article/january-2015/how-to-build-your-own-particle-detector) has a nice article with a movie and a nice explanation of the different tracks you'll see, but lacks specifics for building (e.g. how big of a fish tank? What lid?)
 * [Instructables](http://www.instructables.com/id/Make-a-Cloud-Chamber-using-Peltier-Coolers/) has one that uses a Peltier cooler instead of dry ice. Very cool (ha!) but complicated and expensive. You used to be able to buy an assembled chamber from a [company](http://www.nothinglabs.com/electroniccloudchamber/) that is now considering selling kits. 
-* [Jefferson Lab](http://education.jlab.org/frost/cloud_chamber.html) has a nice video of making a small cloud chamber. They recommend you buy a radioactive source. Note that their series of science education videos are really great! 
+* [Jefferson Lab](http://education.jlab.org/frost/cloud_chamber.html) has a nice video of making a small cloud chamber. They recommend you buy a radioactive source. Note that their series of science education videos is really great! 
 
 I finally found a video and paper from [IOPScience](http://iopscience.iop.org/article/10.1088/0031-9120/47/3/338/meta) for a plastic fish tank chamber with instructions that were quite detailed. The whole thing looked very easy to put together. The paper is behind a pay-wall (sigh), but below I'll describe the Cloud Chamber my daughter and I built and the parts we used. 
 
