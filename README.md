@@ -55,7 +55,7 @@ There are some safety issues,
 * Wait - it took about 15-20 minutes for things to cool down enough before we started seeing tracks. 
 * You need a strong light source. The LED on my iPhone 6 on medium strengh worked great. 
 
-Here are two pictures of the completed cloud chamber.
+Here are two pictures of the completed cold cloud chamber.
 
 ![](completed1.png)
 
