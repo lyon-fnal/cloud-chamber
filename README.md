@@ -42,9 +42,11 @@ There are some safety issues,
 * Eye protection: You don't want dry ice or isopropyl alcohol in your eyes. Wear eye protection when squirting the alcohol into the felt and when breaking up the dry ice
 * Poison: For goodness sakes don't drink the isopropyl alcohol. It's not the kind of alcohol that makes you feel good. It will make you very sick or worse. 
 * Radiation: The thoriated rods are very safe to handle and have so little radiation that they aren't a danger (see [here](http://www.twi-global.com/technical-knowledge/faqs/health-and-safety-faqs/faq-the-use-of-thoriated-tungsten-electrodes/) for more information). That being said, you should not eat them or grind them down or do other stupid things. 
+* Other: Perhaps there are other safety issues not discussed here. By using these instructions you agree that I am not responsible for them. 
 
 ## Preparing the cloud chamber for a run
 
+* With the blue/poster tack, prop up the thoriated rod on the baking sheet so it is a little above the sheet. You may want to put it in at a small angle to test how high the vapor layer goes.
 * Break up the dry is into chunks (a hammer and screwdriver are useful - wear eye and hand protection) making a level surface in the try. See this picture ![](dryice.png)
 * Put some isopropyl alcohol in the wash bottle and squirt it onto the felt all around the tank. You want the felt saturated, but not dripping. Wipe up any excess alcohol. Use eye protection. 
 * Put the fish tank upside down (opening on the bottom) on top of the baking sheet and put the backing sheet on top of the dry ice. It will make some neat noises as the baking sheet shrinks slightly with the cold dry ice. 
@@ -58,3 +60,13 @@ Here are two pictures of the completed cloud chamber.
 ![](completed1.png)
 
 ![](completed2.png)
+
+## Watch a movie
+
+See https://www.youtube.com/watch?v=cFG3P-VRK4E for a movie of the cloud chamber in action!
+
+## What's going on?
+
+The isopropyl alcohol evaporates and the vapor falls from the felt to the bottom of the tank. The bottom is very cold and so you get a supersaturated cloud of alcohol vapor at the bottom of the tank. When a subatomic particle goes through the cloud, it ionizes the air (strips electrons off of atoms) along its path. The alcohol like to clump onto the resulting ions forming droplets, thus making a track that you can see. Cool!!!
+
+See the [Symmetry magazine](http://www.symmetrymagazine.org/article/january-2015/how-to-build-your-own-particle-detector) article for an explanation of the different tracks you'll see. 
