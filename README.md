@@ -27,4 +27,4 @@ In principle, the above and some dry ice (see below) is all you need. I got some
 ## Assembly
 
 * The movie/article uses the lid of the fish tank as a snap-in base and they show how to cut a big hole in it. The lid that came with the tank from Carolina was impossible to cut (it melted with a rotary tool and splintered with a saw). We determined that we didn't really need it and discarded the lid.
-* Cut the felt into 1 inch wide strips and stick it on the wall, towards the bottom, around the inside of the tank. Note that we'll use the tank upside down, so from now on I'll describe the tank in that configuration -- stick the felt on the wall towards the top of tank. See the ![picture](images/tank.png)
+* Cut the felt into 1 inch wide strips and stick it on the wall, towards the bottom, around the inside of the tank. Note that we'll use the tank upside down, so from now on I'll describe the tank in that configuration -- stick the felt on the wall towards the top of tank. See the ![picture](IMG_8654.png).
