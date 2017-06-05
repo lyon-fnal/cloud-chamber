@@ -1,6 +1,6 @@
 # Super easy cloud chamber
 
-[Cloud chambers](https://en.wikipedia.org/wiki/Cloud_chamber) are what got me into a carrer in High Energy physics. I've been wanting to make one myself for quite awhile. There are many sets of instructions on the web, all a little frustrating,
+[Cloud chambers](https://en.wikipedia.org/wiki/Cloud_chamber) are what got me into a carrer in [High Energy Physics](https://en.wikipedia.org/wiki/Particle_physics). I've been wanting to make one myself for quite awhile. There are many sets of instructions on the web, all a little frustrating,
 
 * [Quarknet/Fermilab](http://quarknet.fnal.gov/resources/QN_CloudChamberV1_4.pdf) - they want you to build your own aquarium! Instructions look complicated and it takes a week for the chamber to cure!
 * [Symmetry magazine](http://www.symmetrymagazine.org/article/january-2015/how-to-build-your-own-particle-detector) has a nice article with a movie and a nice explanation of the different tracks you'll see, but lacks specifics for building (e.g. how big of a fish tank? What lid?)
