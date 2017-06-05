@@ -3,7 +3,7 @@
 [Cloud chambers](https://en.wikipedia.org/wiki/Cloud_chamber) are what got me into a carrer in High Energy physics. I've been wanting to make one myself for quite awhile. There are many sets of instructions on the web...
 
 * [Quarknet/Fermilab](http://quarknet.fnal.gov/resources/QN_CloudChamberV1_4.pdf) - they want you to build your own aquarium! Instructions look complicated and it takes a week for the chamber to cure!
-* [Symmetry magazine](http://www.symmetrymagazine.org/article/january-2015/how-to-build-your-own-particle-detector) has a nice article with a movie and a nice explanation of the differnent tracks you'll see, but lacks specifics (e.g. how big of a fish tank? What lid?)
+* [Symmetry magazine](http://www.symmetrymagazine.org/article/january-2015/how-to-build-your-own-particle-detector) has a nice article with a movie and a nice explanation of the different tracks you'll see, but lacks specifics for building (e.g. how big of a fish tank? What lid?)
 * [Instructables](http://www.instructables.com/id/Make-a-Cloud-Chamber-using-Peltier-Coolers/) has one that uses a Peltier cooler instead of dry ice. Very cool (ha!) but complicated and expensive. You used to be able to buy an assembled chamber from a [company](http://www.nothinglabs.com/electroniccloudchamber/) that is now considering selling kits. 
 * [Jefferson Lab](http://education.jlab.org/frost/cloud_chamber.html) has a nice video of making a small cloud chamber. They recommend you buy a radioactive source. Note that their series of science education videos are really great! 
 
@@ -28,7 +28,7 @@ In principle, the above and some dry ice (see below) is all you need. I got some
 
 * The movie/article uses the lid of the fish tank as a snap-in base and they show how to cut a big hole in it. The lid that came with the tank from Carolina was impossible to cut (it melted with a rotary tool and splintered with a saw). We determined that we didn't really need it and discarded the lid.
 * Cut the felt into 1 inch wide strips and stick it on the wall, towards the bottom, around the inside of the tank. Note that we'll use the tank upside down, so from now on I'll describe the tank in that configuration -- stick the felt on the wall towards the "top" of tank. See the picture ![](tank.png).
-* You don't want to put dry ice directly on your table, so prepare a base. I had a box from Amazon with length x width 19" x 12.5" (big enough to fit the banking sheet). We cut the bottom off with a box cutter so it is 2.5" high. In my basement I have some 1" thick foam board insulation (Foamular 150 - Home Depot [has it](http://www.homedepot.com/p/Project-Panels-FOAMULAR-1-in-x-2-ft-x-2-ft-R-5-Insulation-Sheathing-PP1/203553730)). We cut it so we could line the bottom with 1" foam board, leaving 1" open around the edge so we could cut 2.5" high strips along with walls. We then taped over the gaps with duct tape. We had an extra strip, so we put that in too. Here's a picture ![](tray.png)
+* You don't want to put dry ice directly on your table, so prepare a base. I had a box from Amazon with length x width 19" x 12.5" (big enough to fit the banking sheet). We cut the bottom off with a box cutter so it is 2.5" high. In my basement I have some 1" thick foam board insulation (Foamular 150 - Home Depot [has it](http://www.homedepot.com/p/Project-Panels-FOAMULAR-1-in-x-2-ft-x-2-ft-R-5-Insulation-Sheathing-PP1/203553730)). We cut it so we could line the bottom with 1" foam board, leaving 1" open around the edge so we could cut 2.5" high strips along the walls. We then taped over the gaps with duct tape (we probably didn't need to do that). We had an extra strip, so we put that in too. Here's a picture ![](tray.png)
 
 ## Buying dry ice
 
@@ -42,12 +42,12 @@ There are some safety issues,
 * Eye protection: You don't want dry ice or isopropyl alcohol in your eyes. Wear eye protection when squirting the alcohol into the felt and when breaking up the dry ice
 * Poison: For goodness sakes don't drink the isopropyl alcohol. It's not the kind of alcohol that makes you feel good. It will make you very sick or worse. 
 * Radiation: The thoriated rods are very safe to handle and have so little radiation that they aren't a danger (see [here](http://www.twi-global.com/technical-knowledge/faqs/health-and-safety-faqs/faq-the-use-of-thoriated-tungsten-electrodes/) for more information). That being said, you should not eat them or grind them down or do other stupid things. 
-* Other: Perhaps there are other safety issues not discussed here. By using these instructions you agree that I am not responsible for them. 
+* Other: Perhaps there are other safety issues not discussed here. By using these instructions you agree that I am not responsible for them nor for you if something happens. 
 
 ## Preparing the cloud chamber for a run
 
-* With the blue/poster tack, prop up the thoriated rod on the baking sheet so it is a little above the sheet. You may want to put it in at a small angle to test how high the vapor layer goes.
-* Break up the dry is into chunks (a hammer and screwdriver are useful - wear eye and hand protection) making a level surface in the try. See this picture ![](dryice.png)
+* If you wish, with the blue/poster tack, prop up the thoriated rod on the baking sheet so it is a little above the sheet. You may want to put it in at a small angle to test how high the vapor layer goes.
+* Break up the dry ice into chunks (a hammer and screwdriver are useful - wear eye and hand protection) making a level surface in the tray. See this picture ![](dryice.png)
 * Put some isopropyl alcohol in the wash bottle and squirt it onto the felt all around the tank. You want the felt saturated, but not dripping. Wipe up any excess alcohol. Use eye protection. 
 * Put the fish tank upside down (opening on the bottom) on top of the baking sheet and put the backing sheet on top of the dry ice. It will make some neat noises as the baking sheet shrinks slightly with the cold dry ice. 
 * You may want to put a heavy book on top of the fish tank, just to hold everything down and ensure the fish tank is in good contact with the baking sheet (no gaps) and the banking sheet is in good contact with the dry ice. If there are gaps between the fish tank and the baking sheet, you can use duct tape to cover them. But when the tank gets cold the duct tape won't work well. We used duct tape at first, but didn't really need it.
