@@ -41,7 +41,8 @@ There are some safety issues,
 
 * Hand protection: Dry ice is super cold and is dangerous to touch with bare hands. Use thick gloves. See above for some that I bought. Certainly don't eat dry ice!
 * Eye protection: You don't want dry ice or isopropyl alcohol in your eyes. Wear eye protection when squirting the alcohol into the felt and when breaking up the dry ice
-* Poison: For goodness sakes don't drink the isopropyl alcohol. It's not the kind of alcohol that makes you feel good. It will make you very sick or worse. 
+* Poison: For goodness sakes don't drink the isopropyl alcohol. It's not the kind of alcohol that makes you feel good. It will make you very sick or worse.
+* Flammability: Isopropyl alcohol, especially at 99% concentration, is very flammable. Don't run your cloud chamber by candlelight. 
 * Radiation: The thoriated rods are very safe to handle and have so little radiation that they aren't a danger (see [here](http://www.twi-global.com/technical-knowledge/faqs/health-and-safety-faqs/faq-the-use-of-thoriated-tungsten-electrodes/) for more information). That being said, you should not eat them or grind them down or do other stupid things. 
 * Other: Perhaps there are other safety issues not discussed here. By using these instructions you agree that I am not responsible for them nor for you if something happens. 
 
