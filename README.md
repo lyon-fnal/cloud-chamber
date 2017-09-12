@@ -29,7 +29,9 @@ In principle, the above and some dry ice (see below) are all you need. I got som
 
 * The movie/article uses the lid of the fish tank as a snap-in base and they show how to cut a big hole in it. The lid that came with the tank from Carolina was impossible to cut (it melted with a rotary tool and splintered with a saw). We determined that we didn't really need it and discarded the lid.
 * Cut the felt into 1 inch wide strips and stick it on the wall, towards the bottom, around the inside of the tank. Note that we'll use the tank upside down, so from now on I'll describe the tank in that configuration -- stick the felt on the wall towards the "top" of tank. See the picture ![](tank.png).
-* You don't want to put dry ice directly on your table, so prepare a base. I had a box from Amazon with length x width 19" x 12.5" (big enough to fit the baking sheet). We cut the bottom off with a box cutter so it is 2.5" high. In my basement I have some 1" thick foam board insulation (Foamular 150 - Home Depot [has it](http://www.homedepot.com/p/Project-Panels-FOAMULAR-1-in-x-2-ft-x-2-ft-R-5-Insulation-Sheathing-PP1/203553730)). We cut it so we could line the bottom with 1" foam board, leaving 1" open around the edge so we could cut 2.5" high strips along the walls. We then taped over the gaps with duct tape (we probably didn't need to do that). We had an extra strip, so we put that in too. Here's a picture ![](tray.png)
+* You don't want to put dry ice directly on your table, so prepare a base. I had a box from Amazon with length x width 19" x 12.5" (big enough to fit the baking sheet). We cut the bottom off with a box cutter so it is 2.5" high. In my basement I have some 1" thick foam board insulation (Foamular 150 - Home Depot [has it](http://www.homedepot.com/p/Project-Panels-FOAMULAR-1-in-x-2-ft-x-2-ft-R-5-Insulation-Sheathing-PP1/203553730)). We cut it so we could line the bottom with 1" foam board, leaving 1" open around the edge so we could cut 2.5" high strips along the walls. We then taped over the gaps with duct tape (we probably didn't need to do that). We had an extra strip, so we put that in too. Here's a picture,
+
+![](tray.png)
 
 ## Buying dry ice
 
@@ -43,7 +45,7 @@ There are some safety issues,
 * Eye protection: You don't want dry ice or isopropyl alcohol in your eyes. Wear eye protection when squirting the alcohol into the felt and when breaking up the dry ice
 * Poison: For goodness sakes don't drink the isopropyl alcohol. It's not the kind of alcohol that makes you feel good. It will make you very sick or worse.
 * Flammability: Isopropyl alcohol, especially at 99% concentration, is very flammable. Don't run your cloud chamber by candlelight. 
-* Radiation: The thoriated rods are very safe to handle and have so little radiation that they aren't a danger (see [here](http://www.twi-global.com/technical-knowledge/faqs/health-and-safety-faqs/faq-the-use-of-thoriated-tungsten-electrodes/) for more information). That being said, you should not eat them or grind them down or do other stupid things. 
+* Radiation: The thoriated rods are very safe to handle and have so little radiation that they aren't a danger (see [here](http://www.twi-global.com/technical-knowledge/faqs/health-and-safety-faqs/faq-the-use-of-thoriated-tungsten-electrodes/) for more information). You can buy them freely on Amazon with no restrictions at all. That being said, you should not eat them or grind them down or do other stupid things. 
 * Other: Perhaps there are other safety issues not discussed here. By using these instructions you agree that I am not responsible for them nor for you if something happens. 
 
 ## Preparing the cloud chamber for a run
