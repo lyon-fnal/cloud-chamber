@@ -20,7 +20,7 @@ I finally found a video and paper from [IOPScience](http://iopscience.iop.org/ar
 In principle, the above and some dry ice (see below) are all you need. I got some extra stuff, all from Amazon, that have been helpful,
 
 * A [wash bottle](https://www.amazon.com/gp/product/B005Z4RGQW/ref=od_aui_detailpages00?ie=UTF8&psc=1) is convenient for squirting the alcohol onto the felt. $5.09
-* 2% Thoriated [welding rods](https://www.amazon.com/gp/product/B01BKYV9JU/ref=od_aui_detailpages00?ie=UTF8&psc=1) are a tiny bit radioactive and are a great source to put in the cloud chamber (the IOPScience article/movie uses them). I bought a pack of 10 for $11.49. Not sure what to do with the other nine welding rods. You can't buy just one.
+* 2% Thoriated [welding rods](https://www.amazon.com/gp/product/B01BKYV9JU/ref=od_aui_detailpages00?ie=UTF8&psc=1) are a tiny bit radioactive and are a great source to put in the cloud chamber (the IOPScience article/movie uses them). I bought a pack of 10 for $11.49. Not sure what to do with the other nine welding rods. You can't buy just one. I guess I need to learn welding. 
 * Blue tack or [poster tack](https://www.amazon.com/gp/product/B000BKQDB4/ref=od_aui_detailpages00?ie=UTF8&psc=1) is great for holding up the welding rod
 * Good [gloves](https://www.amazon.com/gp/product/B06Y13FZ45/ref=od_aui_detailpages00?ie=UTF8&psc=1) for handling the dry ice. These are now apparently out of stock.
 * The movie/article uses black duct tape. I didn't really need any. 
