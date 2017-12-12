@@ -39,14 +39,15 @@ The hardest part of this whole project was figuring out where to buy dry ice. Ve
 
 ## Safety
 
-There are some safety issues,
+There are some safety issues. Probably the most dangerous item is the dry ice, which is carbon dioxide in solid form. It sublimates (transitions directly from solid to gas) at -109 F (-79 C). It is very cold and must be treated with care. The Isopropyl alcohol can also be somewhat dangerous if handled carelessly. See below for hazzzards.
 
 * Hand protection: Dry ice is super cold and is dangerous to touch with bare hands. Use thick gloves. See above for some that I bought. Certainly don't eat dry ice!
 * Eye protection: You don't want dry ice or isopropyl alcohol in your eyes. Wear eye protection when squirting the alcohol into the felt and when breaking up the dry ice
 * Poison: For goodness sakes don't drink the isopropyl alcohol. It's not the kind of alcohol that makes you feel good. It will make you very sick or worse.
 * Flammability: Isopropyl alcohol, especially at 99% concentration, is very flammable. Don't run your cloud chamber by candlelight. 
 * Radiation: The thoriated rods are very safe to handle and have so little radiation that they aren't a danger (see [here](http://www.twi-global.com/technical-knowledge/faqs/health-and-safety-faqs/faq-the-use-of-thoriated-tungsten-electrodes/) for more information). You can buy them freely on Amazon with no restrictions at all. That being said, you should not eat them or grind them down or do other stupid things. 
-* Other: Perhaps there are other safety issues not discussed here. By using these instructions you agree that I am not responsible for them nor for you if something happens. 
+* [Hypercapnia](https://en.wikipedia.org/wiki/Hypercapnia): Dry ice sublimates rather quickly to gaseous carbon dioxide. If you keep the block with you in a confined space, you could suffer from Hypercapnia - elevated level of CO<sub>2</sub> in your blood. You can avoid this problem by using common sense and making sure you use the dry ice in a well ventilated or large room.
+* Other: Perhaps there are many other safety issues not discussed here (e.g. dropping a five pound block of dry ice on your foot would not be fun). By using these instructions you agree that I am not responsible for them nor for you if something happens. 
 
 ## Preparing the cloud chamber for a run
 
