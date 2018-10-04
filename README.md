@@ -39,7 +39,7 @@ The hardest part of this whole project was figuring out where to buy dry ice. Ve
 
 ## Safety
 
-There are some safety issues. Probably the most dangerous item is the dry ice, which is carbon dioxide in solid form. It sublimates (transitions directly from solid to gas) at -109 F (-79 C). It is very cold and must be treated with care. The Isopropyl alcohol can also be somewhat dangerous if handled carelessly. See below for hazzzards.
+There are some safety issues. Probably the most dangerous item is the dry ice, which is carbon dioxide in solid form. It sublimates (transitions directly from solid to gas) at -109 F (-79 C). It is very cold and must be treated with care. The Isopropyl alcohol can also be somewhat dangerous if handled carelessly. See below for hazzards.
 
 * Hand protection: Dry ice is super cold and is dangerous to touch with bare hands. Use thick gloves. See above for some that I bought. Certainly don't eat dry ice!
 * Eye protection: You don't want dry ice or isopropyl alcohol in your eyes. Wear eye protection when squirting the alcohol into the felt and when breaking up the dry ice
